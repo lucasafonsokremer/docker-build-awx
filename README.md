@@ -14,7 +14,7 @@ Dockerfile informations
 
 * Inside the folder Dockerfile_requirements you will see an variables file with specific versions of libs for this Virtual Environment.
 
-* You must preserve the libs file standard name. Ex.: "awx14.1.0_ansible2.9"
+* You must preserve the libs file standard name. Ex.: "awx15.0.0_ansible2.11"
 
 * After replace this image on your environment, you must add the new virtual environment path on the AWX CLI:
 
